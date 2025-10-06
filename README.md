@@ -6,7 +6,7 @@
   </h1>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+!+I'm+Jaisyurrahman;A+Frontend+Developer;A+Creative+UI+Designer;Welcome+Here!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+!+I'm+Jaisyurrahman;A+Full-Stack+Developer;A+Creative+UI+Designer;Welcome+Here!;I debug faster when I have coffee ☕" alt="Typing SVG" />
 
 </div>
 
@@ -17,6 +17,6 @@
 const jaisyurrahman = {
   code: ["HTML", "CSS", "JavaScript", "React", "Node.js"],
   tools: ["VSCode", "Tailwind", "Git", "Figma"],
-  passions: ["Frontend Development", "Modern UI", "Automation"],
+  passions: ["Full-Stack Development", "Modern UI", "Automation"],
   funFact: "I debug faster when I have coffee ☕"
 }
